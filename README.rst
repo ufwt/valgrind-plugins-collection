@@ -64,4 +64,4 @@ How to make Fuzzgrind work ?
 Fuzzgrind seems not being maintained ?
 It was built with Valgrind 3.4.1 in 2009, not sure whether works with newer Valgrind.
 
-Further information : `Fuzzgrind: an automatic fuzzing tool <http://esec-lab.sogeti.com/static/publications/09-hacklu-fuzzgrind.pdf<F37>>`_
+Further information : `Fuzzgrind: an automatic fuzzing tool <http://esec-lab.sogeti.com/static/publications/09-hacklu-fuzzgrind.pdf>`_
