@@ -40,6 +40,8 @@ Plugins
 +------------------+--------------------------------------------------------+----------------------------+
 | Taintgrind_      | a taint analysis tool (based on Memcheck & Flayer)     | Wei Ming Khoo              |
 +------------------+--------------------------------------------------------+----------------------------+
+| Cudagrind_       | A Valgrind Extension for CUDA                          | HLRS                       |
++------------------+--------------------------------------------------------+----------------------------+
 
 
 
@@ -48,6 +50,7 @@ Plugins
 .. _Fuzzgrind: http://esec-lab.sogeti.com/pages/fuzzgrind.html
 .. _Flayer: https://code.google.com/p/flayer/
 .. _Taintgrind: https://github.com/wmkhoo/taintgrind
+.. _Cudagrind: https://www.hlrs.de/organization/av/spmt/research/cudagrind/
 
 
 FAQ
@@ -77,3 +80,8 @@ How Flayer works ?
 ------------------------------
 
 Further information : `Flayer: Exposing Application Internals <https://www.usenix.org/legacy/event/woot07/tech/full_papers/drewry/drewry_html/>`_
+
+More Cudagrind information ?
+------------------------------
+
+Further information : `Cudagrind: A Valgrind Extension for CUDA <http://arxiv.org/pdf/1310.0901v1.pdf>`_
